@@ -1,4 +1,4 @@
-//
+// This code virtually rotates the string and returns the lexicographically smallest string.
 
 
  string res = S;
